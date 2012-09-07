@@ -8,8 +8,9 @@ Note that there are not many image viewers that open .ppm images. In fact, Apple
 Information
 -----------
 
-All credit to Martí-Joan Nogué Coll - Catsoft-Studios 2011
-More information about the code can be found at:
+All credit to Martí-Joan Nogué Coll - Catsoft-Studios 2011.
+More information about the code can be found at
+
 [catsoft-studios.com/projects][1]
 
 If you have any questions drop us a line by making use of the contact page.
@@ -25,7 +26,7 @@ Or if you have problems using path variable (i did) copy and paste the following
 
 	g++ data/*.cpp data/*.h io/*.cpp io/*.h gui/*.cpp gui/*.h algorithms/*.cpp algorithms/*.h *.cpp -o muzip.x
 
-To clean the compilated files execute `make -f Makefile.make clean` or `rm -rf *.o *.x`
+To clean the compiled files execute `make -f Makefile.make clean` or `rm -rf *.o *.x`
 
 Usage
 -----
@@ -57,7 +58,7 @@ The procedure is the same as the compressing one, but instead of selecting a .pp
 	
 ### Final lines
 
-Note that when you execute `./muzip` you can modify 3 variables called `p`, `q` and `alpha`. Those values represent the number of quads the image is splited.
+Note that when you execute `./muzip` you can modify 3 variables called `p`, `q` and `alpha`. Those values represent the number of quads the image is split.
 To understand this better head to [catsoft-studios.com/projects][1] and select MuZIP to read the article about how MuZIP works.
 
 
