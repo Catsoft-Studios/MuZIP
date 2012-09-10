@@ -5,7 +5,7 @@ MuZIP: .ppm image compressor
 This code was created for a university assignment and may not be sold nor used for any lucrative purposes. We do not take any responsibilities of the injuries it may cause.
 Note that there are not many image viewers that open .ppm images. In fact, Apple used to display images in Macs with the QuickView in Snow Leopard. But now in Mountain Lion seems that they dropped support.
 
-![muzip](https://raw.github.com/mnogue/MuZIP/master/readme/muzip.png)
+![muzip](https://raw.github.com/Catsoft-Studios/MuZIP/master/readme/muzip.png)
 
 Information
 -----------
