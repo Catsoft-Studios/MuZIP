@@ -60,7 +60,3 @@ The procedure is the same as the compressing one, but instead of selecting a .pp
 ### Final lines
 
 Note that when you execute `./muzip` you can modify 3 variables called `p`, `q` and `alpha`. Those values represent the number of quads the image is split.
-To understand this better head to [mnogue.com/experiments][1] and select MuZIP to read the article about how MuZIP works.
-
-
-[1]: http://mnogue.com/experiments
