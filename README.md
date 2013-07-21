@@ -1,4 +1,3 @@
-
 MuZIP: .ppm image compressor
 ============================
 
@@ -13,7 +12,7 @@ Information
 All credit to Martí-Joan Nogué Coll - Catsoft-Studios 2011.
 More information about the code can be found at
 
-[catsoft-studios.com/projects][1]
+[mnogue.com/experiments][1]
 
 If you have any questions drop us a line by making use of the contact page.
 
@@ -61,7 +60,7 @@ The procedure is the same as the compressing one, but instead of selecting a .pp
 ### Final lines
 
 Note that when you execute `./muzip` you can modify 3 variables called `p`, `q` and `alpha`. Those values represent the number of quads the image is split.
-To understand this better head to [catsoft-studios.com/projects][1] and select MuZIP to read the article about how MuZIP works.
+To understand this better head to [mnogue.com/experiments][1] and select MuZIP to read the article about how MuZIP works.
 
 
-[1]: http://catsoft-studios.com/projects
+[1]: http://mnogue.com/experiments
